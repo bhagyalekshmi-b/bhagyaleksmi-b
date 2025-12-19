@@ -7,7 +7,7 @@
 
 - 🔭 I’m currently working on **Smart HR-AI**
 
-- 🌱 I’m currently learning **Javascript, MongoDB, Express.js, React, Node.js**
+- 🌱 I’m currently learning **Llama, RAG Architecture**
 
 - 📫 How to reach me **bhagyalekshmi8157@gmail.com**
 
